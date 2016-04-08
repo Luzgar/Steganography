@@ -5,7 +5,7 @@ This project was made in context for a student project at Polytech'Nice Sophia-A
 
 ###Contributors
 
-Benjamin PIAT
-Kevin DUGLUE
-Loic ROSE
-Jihane SBAYTTI
+Benjamin PIAT  
+Kevin DUGLUE  
+Loic ROSE  
+Jihane SBAYTTI  
